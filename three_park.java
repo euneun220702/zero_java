@@ -1,3 +1,7 @@
+/*
+서은경
+*/
+
 import java.util.Scanner;
 
 public class three_park {
